@@ -5,7 +5,7 @@ nav:
   - UI elements: elements.md
   - Adding a file to a board: file.md
   - Adding sticky notes to a board: sticky.md
-  - Locking a file on a board: lock.md
+  - Locking an object on a board: lock.md
   - Troubleshooting: trouble.md
   
   
