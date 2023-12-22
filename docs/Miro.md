@@ -4,5 +4,5 @@ Miro is a virtual whiteboard that you can use for online classes. The size of th
 
 Four plans are available: **Free, Team Plan, Business Plan,** and **Enterprise Plan**.
 
-![](Images/Miro.png) 
+![](Images/pic.png) 
 
