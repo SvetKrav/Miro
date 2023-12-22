@@ -1,3 +1,5 @@
+### How to add a sticky note to the board
+
 To add a sticky note to the board, you are to:
 
 1. Click the **Sticky notes** icon.
