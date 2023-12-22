@@ -1,4 +1,6 @@
-To lock the object on the board, you are to:    
+### How to lock an object on the board
+
+To lock an object on the board, you are to:    
 
 1. Right-click the object.
 
