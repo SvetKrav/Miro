@@ -1,3 +1,5 @@
+### How to add a file to the board
+
 To add a file to the board, you are to:
 
 1. Click the **Upload** icon.
